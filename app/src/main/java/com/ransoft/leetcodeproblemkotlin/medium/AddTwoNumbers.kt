@@ -1,4 +1,4 @@
-package medium
+package com.ransoft.leetcodeproblemkotlin.medium
 
 class ListNode(var `val`: Int) {
     var next: ListNode? = null

@@ -1,4 +1,4 @@
-package easy
+package com.ransoft.leetcodeproblemkotlin.easy
 
 fun main() {
     println("Two Sum Problem")

@@ -1,4 +1,4 @@
-package medium
+package com.ransoft.leetcodeproblemkotlin.medium
 
 fun main() {
 
